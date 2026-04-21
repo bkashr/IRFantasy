@@ -4,3 +4,8 @@ A custom fantasy football website for our friends to draft, track teams, see new
 ## Pre-requisites
 
 ## Installations
+
+## Roadmap
+[ ] Upcoming change
+
+## Licenses
