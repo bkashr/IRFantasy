@@ -28,8 +28,9 @@ Backend:
 ## Open Questions
 
 ## Next Steps
-
-
+Jai - setting up fastapi backend endpoints for draft board data
+Bob - 
+Zack - 
 
 ## Notes
 
