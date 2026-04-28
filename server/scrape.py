@@ -82,5 +82,4 @@ for pick in league_2025.draft:
     )
     print(f"Inserted draft pick: {pick.playerName}")
         
-
-
+print("hello worl")
