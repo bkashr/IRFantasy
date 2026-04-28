@@ -29,7 +29,7 @@ Backend:
 
 ## Next Steps
 - Jai - setting up fastapi backend endpoints for draft board data
-- Bob - 
+- Bob - Start frontend with vue.js, making a homepage, and a history page, along with a dropdown to test backendand front end connection, along with start thinking about themes/colors/fonts, etc.
 - Zack - 
 
 ## Notes
